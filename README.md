@@ -23,6 +23,10 @@
 ### Reach me through
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-252525?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pedrohmbraz/) [![Instagram](https://img.shields.io/badge/Instagram-252525?style=for-the-badge&logo=instagram)](https://www.instagram.com/pedrohmbraz/)[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroHMBraz)
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PedroHMBraz&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!---
 PedroHMBraz/PedroHMBraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
