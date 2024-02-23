@@ -3,7 +3,6 @@
 </div>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey%2C+there!+I'm+Pedro+Braz!)](https://git.io/typing-svg)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <p>
 - 👋 I’m @PedroHMBraz, I have a degree in Physics and now I'm changing my field of interest and aiming to use my scientist skills to become a software developer. <br>
