@@ -3,7 +3,7 @@
 </div>
 
 <h3>
-  Hey there!
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey%2C+there!+I'm+Pedro+Braz!)](https://git.io/typing-svg)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
