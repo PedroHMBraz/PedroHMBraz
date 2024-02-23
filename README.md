@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/PedroHMBraz/PedroHMBraz/blob/main/wallpaper.jpg" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJmdjJhaG80d3Bnamtod3o4MWc1c2kyd2FhaTRrM3UwODZ6YzM1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaDsH4FpMBnqdK8J0g/giphy.gif" width="300"/>
 </div>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey%2C+there!+I'm+Pedro+Braz!)](https://git.io/typing-svg)
