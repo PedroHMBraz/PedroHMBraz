@@ -2,10 +2,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJmdjJhaG80d3Bnamtod3o4MWc1c2kyd2FhaTRrM3UwODZ6YzM1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaDsH4FpMBnqdK8J0g/giphy.gif" width="100"/>
 </div>
 
-<h3>
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey%2C+there!+I'm+Pedro+Braz!)](https://git.io/typing-svg)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 <p>
 - 👋 I’m @PedroHMBraz, I have a degree in Physics and now I'm changing my field of interest and aiming to use my scientist skills to become a software developer. <br>
