@@ -7,7 +7,7 @@
 <p>
 - 👋 I’m @PedroHMBraz, I have a degree in Physics and now I'm changing my field of interest and aiming to use my scientist skills to become a software developer. <br>
 - 👀 I’m interested in software development, data science and physics. <br>
-- 🌱 I’m currently learning Python and its application to machine learning and AI. <br>
+- 🌱 I’m currently learning web development,Python and its application to machine learning and AI. <br>
 - 🔎 I'm looking for a position as a junior developer.
 <p>
 
