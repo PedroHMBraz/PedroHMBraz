@@ -24,7 +24,11 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PedroHMBraz&theme=dark&background=000000)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMBraz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Snake animation](https://github.com/PedroHMBraz/PedroHMBraz/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHMBraz/PedroHMBraz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHMBraz/PedroHMBraz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroHMBraz/PedroHMBraz/output/github-contribution-grid-snake.svg">
+</picture>
 <!---
 PedroHMBraz/PedroHMBraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
